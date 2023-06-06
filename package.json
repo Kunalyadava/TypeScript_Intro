@@ -1,0 +1,28 @@
+{
+  "name": "typescript_intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve:1": "tsc src/1.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kunalyadava/TypeScript_Intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kunalyadava/TypeScript_Intro/issues"
+  },
+  "homepage": "https://github.com/Kunalyadava/TypeScript_Intro#readme",
+  "devDependencies": {
+    "tsc": "^2.0.4"
+  },
+  "dependencies": {
+    "typ": "^0.6.3",
+    "typescript": "^5.1.3",
+    "yarn": "^1.22.19"
+  }
+}
